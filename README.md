@@ -48,7 +48,7 @@ A collection of real-world data analytics projects using Python. This repo showc
 ## 📬 Let's Connect
 
 - LinkedIn: [Dev Gupta](https://www.linkedin.com/in/your-link/)
-- GMail: [GMail](devg7898@gmailcom)
+- GMail: [GMail](devg7898@gmail.com)
 
 ---
 
